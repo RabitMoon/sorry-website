@@ -1,0 +1,63 @@
+@media only screen and (max-width: 600px) {
+    nav,footer{
+        font-size: 12px;
+    }
+
+    .img-box{
+        height: 33vh;
+        font-size: 1.3rem;
+    }
+    .both{
+        height: 200px;
+        width: 150px;
+        left: 30px;
+    }
+    .text-line{
+        bottom: -300px;
+        width: 80vw;
+        left: 30px;
+        height: auto;
+        text-decoration: wavy;
+        font-size: .8rem;
+    }
+    .mobile{
+        background: #FDE2F3;
+        z-index: -2;
+        height: 60vh;
+    }
+    .forgive{
+        height: 100vh;
+    }
+
+    .forgive .box{
+        width: 90%;
+        height: auto;
+        /* border-radius: 0px; */
+        padding-top: 20px;
+    }
+
+    .box1{
+        width: 80%;
+    }
+
+    #for{
+        font-size: small;
+    }
+    .bubble img:nth-child(11)
+    {
+        display: none;
+    }
+    .bubble img:nth-child(10)
+    {
+        display: none;
+    }
+    .bubble img:nth-child(9)
+    {
+        display: none;
+    }
+    .thnx{
+        font-size: 1rem;
+        /* width: 90vw; */
+    }
+
+}
